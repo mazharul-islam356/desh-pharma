@@ -19,7 +19,7 @@ const Banner = () => {
             <div className="flex justify-center items-center gap-8 mt-6 font-semibold mb-20">
                 <button className="flex items-center gap-2 px-10 py-3 rounded-3xl text-white bg-[#00a89d] ">
                 <LuMessageSquare className="text-xl font-semibold" />
-                    Let's Talk</button>
+                    Let&apos;s Talk</button>
                 
             </div>
             </div>
